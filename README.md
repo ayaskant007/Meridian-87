@@ -114,8 +114,7 @@ Prices were checked on 10 Nov 2026. USD is at ₹93.93 per dollar. Full links an
 | Case bottom + plate, 3D printed | Case | 1 | not priced | not priced | Printing Legion |
 | Double-sided tape | Holds the plate | 1 | not priced | not priced | Self-sourced |
 
-**Shipping:** Robu, Meckeys and Neomacro ship these orders free. Credkeys works out shipping at checkout.
-**Grand Total:** ₹11,338.96 ($120.72). This excludes the 3D prints, tape, Credkeys shipping and any customs duty on the PCB.
+**Grand Total:** ₹11,338.96 ($120.72). This excludes the 3D prints, tape, and any customs duty on the PCB.
 
 ## Files
 
