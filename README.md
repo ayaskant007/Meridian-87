@@ -21,7 +21,7 @@ After building the Xeon Horizon macropad, I wanted to go all the way and design 
 
 ## Firmware
 
-**QMK, with the VIA keymap.** The RP2040 on the Pico is a first-class QMK target, QMK handles the 6×17 diode matrix and the EC11 encoder natively, and VIA lets you remap keys and the knob from a browser. There's no wireless, RGB or display on this board, so ZMK and KMK would only add limits without adding anything.
+**QMK, with the VIA keymap.** The RP2040 on the Pico is a first-class QMK target, QMK handles the 6×17 diode matrix and the EC11 encoder natively, and VIA lets you remap keys and the knob from a browser. There's no wireless, RGB or display on this board.
 
 Prebuilt firmware is in [production/](production):
 
